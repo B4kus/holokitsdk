@@ -13,12 +13,12 @@ Supporting phones:
 - Apple iPhone 7 Plus (tested)
 - Apple iPhone 6S
 - Apple iPhone 6S Plus
+- Apple iPhone 8
+- Apple iPhone 8 Plus
 
 Coming soon:
 
-- Apple iPhone 8
-- Apple iPhone 7S
-- Apple iPhone 7S Plus
+- Apple iPhone X
 
 ## Android ARCore Branch 
 
